@@ -34,7 +34,7 @@ $ gulp
 ```
 Executing the default `gulp` command will:
 - Build the project
-- Start the **BrowserSync** server at <a href="http://localhost:7000" target="_blank">localhost:7000</a>
+- Start the **BrowserSync** server at <a href="http://localhost:3001" target="_blank">localhost:3001</a>
 - Watch for changes to the source files and process changes
 
 #### Testing
